@@ -1,7 +1,6 @@
 # Finding the factors of an integer
 
-N = ("Enter integer: ")
-N = int(input())
+N = int(input("Enter integer: "))
 i = 2 
 first = True 
 
